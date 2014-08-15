@@ -1,0 +1,67 @@
+a:hover {
+	color:#06C1CA;
+}
+
+.navigation li:before {
+content:'';
+background:#06C1CA;
+}
+
+.sep1 {
+background:#06C1CA;
+}
+
+.sep2 {
+background:#06C1CA;
+}
+
+.np-controls a:hover i {
+color:#06C1CA;
+}
+
+#filter-list li:hover {
+background:#06C1CA;
+}
+
+#filter-list li.active {
+background:#06C1CA;
+}
+
+.skills-bg span {
+background:#06C1CA;
+}
+
+.services-info ul li:hover {
+background:#06C1CA;
+}
+
+.link-post {
+background:#06C1CA;
+}
+
+.quote-post blockquote {
+color:#06C1CA;
+}
+
+.contact-form button {
+background:#06C1CA;
+}
+
+.contact-form button:hover {
+color:#06C1CA;
+}
+
+.social li a:hover {
+color:#06C1CA;
+}
+
+.reply {
+background:#06C1CA;
+}
+
+.reply:hover {
+color:#06C1CA;
+}
+
+
+
